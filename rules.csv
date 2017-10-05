@@ -1,0 +1,214 @@
+
+    Name            Code Normal Loan     Holdable Bookable Home Pickup Shippable
+                         Period                                        
+1   2 HR OVERNIGHT  J    2               n        n        n           n
+2   2 HR FAC.       J    2               n        n        n           n
+    OVERNIGHT                                                          
+3   2 HR NO         K    2               n        n        n           n
+    OVERNIGHT                                                          
+4   2 HR FAC NO     K    2               n        n        n           n
+    OVERNITE                                                           
+5   1 DAY Rsv /     R    1               n        n        n           n
+    Spec Loa                                                           
+6   1-Day Fac       R    1               n        n        n           n
+    Rsv/Spc Lo                                                         
+7   3 DAY RESERVE   R    3               n        n        n           n
+8   3 DAY FAC       R    3               n        n        n           n
+    RESERVE                                                            
+9   21 DAY GENERAL  R    21              y        n        n           n
+    CIRC                                                               
+10  21 DAY FACULTY  R    21              y        n        n           n
+    CIRC                                                               
+11  GCLC            R    21              y        n        n           n
+12  INTERLIBRARY    R    90              y        n        n           n
+    LOAN                                                               
+13  GRAD STUDENT    A    395             y        n        n           n
+14  FACULTY         A    547             y        n        n           n
+15  1 DAY           N    1               y        y        n           n
+    NONCIRCULATING                                                     
+16  1 DAY FAC       N    1               y        y        n           n
+    NON-CIRC                                                           
+17  1 DAY LISTEN    N    1               y        n        n           n
+    CENTER                                                             
+18  7 DAY FAC LIST  R    7               y        n        n           n
+    CNTR                                                               
+19  test training   A    15              Y        N                     
+20  OLINK Patron    R    21              y        n        n           n
+    Init                                                               
+21  OhioLINK        N    14              Y        N                     
+    Non-Circula                                                        
+22  OhioLINK        R    21              y        n        n           n
+    Instit Circ                                                        
+23  Graduate        I    18              N        N                     
+    Reading Roo                                                        
+24  OLINK On-Site   R    21              Y        N                     
+25  SWORD Journal   R    3               y        n        n           n
+    Underg                                                             
+26  SWORD Journal   R    7               y        n        n           n
+    Facult                                                             
+27  7 DAY RESERVE   R    7               y        n        n           n
+28  7 DAY FAC       R    7               y        n        n           n
+    RESERVE                                                            
+
+                                     Page 1
+29  ILL-Circ-Regula R    1               n        n        n           n
+    r                                                                  
+30  ILL-Circ-Facult R    1               n        n        n           n
+    y                                                                  
+31  IMC 7-DAY       R    7               n        n        n           n
+32  IMC 7 DAY       R    7               n        n        n           n
+    FACULTY                                                            
+33  Brill Net       K    4               N        N                     
+    Carrels                                                            
+34  King Carrels,   K    2               Y        N                     
+    Fac                                                                
+35  Kng             K    2               Y        N                     
+    Car'l-non-fac                                                      
+36  Elect. Instr Rm I    18              N        N                     
+37  Faculty         I    21              N        N                     
+    Reading Rm                                                         
+38  Fac Read R      A    546             y        n        n           n
+    cabinets                                                           
+39  OhioLINK MEDIA  R    7               y        n        n           n
+    CIRC                                                               
+40  RESERVE RECALLS R    21              y        n        n           n
+41  Microsoft       R    3               n        n        n           n
+    Products                                                           
+42  Private Study   R    335             N        N                     
+    Carrel                                                             
+43  3 Day Fac Non   R    3               n        n        n           n
+    Reserv                                                             
+44  7 Day Non Rsv   R    7               y        n        n           n
+45  21 DAY 3        R    21              y        n        n           n
+    RENEWAL                                                            
+46  21 DAY FAC 3    R    21              y        n        n           n
+    RENEWAL                                                            
+47  Videos-Regular  R    7               y        n        n           n
+48  Video-Faculty   R    7               y        y        n           n
+49  Laptop-student  K    3               y        y        n           n
+50  Brill           A    501             n        n        n           n
+    Carrels-Grad                                                       
+51  Brill           A    546             n        n        n           n
+    Carrels-Facult                                                     
+52  IMC One Day Fac R    1               n        n        n           n
+53  DIGITAL VIDEO   K    4               y        y        n           n
+    CAMERA                                                             
+54  Laptop-faculty  K    3               y        y        n           n
+55  MAC OS GRAD     R    3               N        N                     
+56  Rm 54,57 Keys   J    21              n        n        n           n
+57  MAC OS FACULTY  R    3               N        N                     
+58  OLINK Test rule R    1               N        N        N           N
+59  Test 2nd fine   R    1               N        N        N           N
+    period                                                             
+60  Network Cables  K    4               n        y        n           n
+61  Misc Components J    24              n        y        n           n
+62  Head Phone      K    3               n        n        n           n
+63  OLINK PCIRC     R    21              y        n        n           n
+    revised                                                            
+64  OLINK MEDIA     R    7               y        n        n           n
+    Revised                                                            
+65  DIGITAL STILL   K    4               y        y        n           n
+    CAMERA                                                             
+
+                                     Page 2
+66  iSight and Misc J    24              n        y        n           n
+67  Video Camera    K    4               n        y        n           n
+    Parts                                                              
+68  Women's Center  N    21              N        N        N           N
+    test                                                               
+69  WOM CEN         R    21              N        N        N           N
+    UNDERGRAD                                                          
+70  WOM CEN GRAD    A    242             n        n        n           n
+71  WOM CEN FACULTY A    546             n        n        n           n
+72  Laptop-King/stu K    3               y        y        n           n
+    dent                                                               
+73  Laptop-King/fac K    3               y        y        n           n
+    ulty                                                               
+74  King Ntwk       K    4               n        y        n           n
+    Cables                                                             
+75  Network cables  J    24              n        y        n           n
+76  DIGIT           J    24              n        y        n           n
+    VIDCAMERA/king                                                     
+77  DIG             J    24              n        y        n           n
+    STILLCAMERA                                                        
+    king                                                               
+78  DIG voice       J    24              y        y        n           n
+    recorder                                                           
+79  KING 2HR NO     K    2               n        y        n           n
+    O'ERNITE                                                           
+80  KING 2HR NO     K    2               n        y        n           n
+    ONITEFAC                                                           
+81  Cam mayb, lost  J    24              n        y        n           n
+    label                                                              
+82  KING Head Phone K    3               n        y        n           n
+83  3 DAY           R    3               y        y        n           n
+    RES/reqstable                                                      
+84  3-day f         R    3               y        y        n           n
+    res/reqstabl                                                       
+85  Battery PC      K    3               y        n        n           n
+86  Test Scott      K    1               y        n        n           n
+87  KING POWER      K    3               n        y        n           n
+    CORDS                                                              
+88  Test LR-Scott   R    1               y        n        n           n
+89  CanvBags        R    21              n        y        n           n
+90  2HR NO VNT      K    2               n        y        n           n
+    KING NWSP                                                          
+91  IMC misc        K    2               n        n        n           n
+92  Faculty New w   A    547             y        n        n           n
+    recall                                                             
+93  Fac,new w       A    547             y        y        n           n
+    recall(2)                                                          
+94  King/equip/misc J    24              n        y        n           n
+    ellan                                                              
+95  King-3 hr       J    3               n        n        n           n
+96  KING 3 hr fac   K    3               n        y        n           n
+97  Keys (king) no  K    24              n        y        n           n
+    fine                                                               
+98  KING,headphone  K    3               n        n        n           n
+    fac                                                                
+99  DIG voice rec   J    24              y        y        n           n
+    (fac)                                                              
+100 King camera     J    24              n        y        n           n
+
+                                     Page 3
+    faculty                                                            
+101 King vid cam    J    24              n        y        n           n
+    faculty                                                            
+102 7 Day ASG items R    7               y        n        n           n
+103 LAPTOP 24 HR    J    24              n        n        n           n
+104 LAPTOP 24 HR    J    24              n        y        n           n
+    fac                                                                
+105 Copy of LR 79   K    2               n        y        n           n
+106 3 Hour No       K    3               n        n        n           n
+    OVERNIGHT                                                          
+107 Test LR 2-Scott R    1               y        n        n           n
+108 Test riffraff   R    15              n        n        n           n
+    leisur                                                             
+109 Test hibrow     R    20              y        n        n           n
+    leisure                                                            
+110 OHPIR           R    21              y        n        n           n
+    Institution                                                        
+111 SrchOhio Patron R    21              y        n        n           n
+112 SrchOhio Media  R    7               y        n        n           n
+    Patr                                                               
+113 SrchOhio Media  R    7               y        n        n           n
+    Inst                                                               
+114 OLINK instit    R    42              y        n        n           n
+    fac                                                                
+115 OLINK Fac       R    42              y        n        n           n
+    Initiated                                                          
+116 Power Cord      J    24              n        n        n           n
+117 DIGIT           J    24              n        y        n           n
+    VIDCAMERA/Dept                                                     
+118 Branch Dig Eq   K    24              n        n        n           n
+119 1 DAY Rsv /     R    1               n        n        n           n
+    Dig Eq                                                             
+120 1-Day Fac       R    1               n        n        n           n
+    Rsv/Dig Eq                                                         
+121 3 DAY DIG EQ    R    3               n        n        n           n
+    HAM                                                                
+122 3 DAY FAC       R    3               n        n        n           n
+    RESERVE                                                            
+123 Branch/equip/mi J    24              n        y        n           n
+    sc                                                                 
+124 3 Day, No Fines R    3               n        n        n           n

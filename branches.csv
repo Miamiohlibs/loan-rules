@@ -1,0 +1,579 @@
+    Code  Branch Name                                                Public
+1   9ascp ~Akron-Summit County PL                                    false
+2   9cinc ~Cincinnati-Hamilton County Public Library                 false
+3   9cler ~Clermont County Public Library                            false
+4   9delo ~Delaware Co District Lib                                  false
+5   9geap ~Geauga Public Library                                     false
+6   9lane ~Lane Public Library                                       false
+7   9loui ~Louisville PL                                             false
+8   9lsvp ~Louisville Public Library                                 false
+9   9mass ~Massillon PL                                              false
+10  9ment ~Mentor PL                                                 false
+11  9midp ~Midpointe Library System                                  false
+12  9mrpl ~Mansfield-Richland PL                                     false
+13  9msln ~Massillon Public Library                                  false
+14  9rodm ~Rodman PL                                                 false
+15  9rrpl ~Rocky River Public Library                                false
+16  9slic ~Stark Libs Info Consort                                   false
+17  9smfp ~Stow-Munroe Falls Public Library                          false
+18  9star ~Stark County DL                                           false
+19  9wcpl ~Washington-Centerville Public Library                     false
+20  9wppl Westlake Porter Public Library                             false
+21  aac   ArtArch Circulation                                        false
+22  aacls ArtArch Clsd Stacks                                        false
+23  aacmp ArtArch Laptops (Circulation)                              false
+24  aaeq  ArtArch Digital Equipment (Circulation)                    false
+25  aaff  ArtArch Oversize                                           false
+26  aafo  ArtArch Folio                                              false
+27  aagn  ArtArch Graphic Novels                                     false
+28  aags  ArtArch Group Study Rooms (Circulation)                    false
+29  aal   ART ARCHITECTURE                                           true
+30  aali  ArtArch                                                    false
+31  aaml  ArtArch Materials Library                                  false
+32  aap   ArtArch Periodical                                         false
+33  aar   ArtArch Reference                                          false
+34  aarm  ArtArch CD-ROM                                             false
+35  aars  ArtArch Reserve                                            false
+36  aast  ArtArch Storage                                            false
+37  aasup ArtArch Supplies (Circulation)                             false
+38  aavc  ArtArch Video Cass                                         false
+39  acq   King Acquisitions Dept.                                    false
+40  ak2ug University of Akron                                        false
+41  an3bg Antioch College                                            false
+42  arcli Spec Archives                                              false
+43  as2ug Ashland University                                         false
+44  at3ug Athenaeum of Ohio                                          false
+45  au3bg Antioch University                                         false
+46  be4tg Belmont College                                            false
+47  bf1ug Bluffton University                                        false
+48  bg1ug Bowling Green State Univ                                   false
+49  bw3bg Baldwin Wallace University                                 false
+
+                                     Page 1
+50  ca2ug Case Western Reserve Univ                                  false
+51  cat   King Catalog Dept.                                         false
+52  cb3bg Cincinnati Christian Univ                                  false
+53  cc2mh Cleveland Clinic                                           false
+54  cc2pl Cuyahoga Co. P.L.                                          false
+55  cc2tg Cuyahoga CC                                                false
+56  ccat  Copy Cataloging                                            false
+57  cd3bg Cedarville University                                      false
+58  ce3ug Central State University                                   false
+59  cf2pl ~Cuyahoga Falls PL                                         false
+60  ci3ug Univ. of Cincinnati                                        false
+61  cl3tg Clark State CC                                             false
+62  co4bg Columbus Coll Art Design                                   false
+63  co4tg Columbus State CC                                          false
+64  cp4ug Capital University                                         false
+65  cr0xx Cntr Research Libs                                         false
+66  cr0zz Cnter Research Libs                                        false
+67  crl   Center Research Library                                    false
+68  cs2ug Cleveland State U                                          false
+69  ct3tg Cincinnati St. Com. Col.                                   false
+70  da3ug Univ of Dayton                                             false
+71  de1bg Defiance College                                           false
+72  de4ug Denison University                                         false
+73  dean  Dean's office                                              false
+74  dm2ug Myers University                                           false
+75  doc   King - GOV                                                 true
+76  docc  King - Govt & Law Census                                   false
+77  doceu King - Govt & Law Europe                                   false
+78  docfs Govt & Law Folio Cabinet                                   false
+79  docl  King- Govt & Law - Law                                     false
+80  docli King - Govt & Law US                                       false
+81  doclo Internet Resource                                          false
+82  doco  King - Govt & Law Ohio                                     false
+83  docpu Govt Info/Law Hold Shelf                                   false
+84  docr  King-Govt & Law Reference                                  false
+85  docrm King - Govt & Law CD-ROM                                   false
+86  docrs King - Govt & Law Reserve                                  false
+87  docsr King-Govt & Law US Ref                                     false
+88  docun King - Govt & Law UN                                       false
+89  docvs Govt & Law Video Storage                                   false
+90  ed3tg Edison State Cc                                            false
+91  ext   Other Campus Collections                                   true
+92  fc2bg CONSORT Colleges                                           false
+93  fi1ug University of Findlay                                      false
+94  fr2ug Franciscan University                                      false
+95  fr4ug Franklin U                                                 false
+96  game1 KingGamingLab                                              false
+97  gc1pl ~Greene Co PL                                              false
+98  haat  Hamilton Atlas Case                                        false
+99  hacmp Hamilton - Computer                                        false
+100 hadi  Hamilton Display                                           false
+101 haeq  Hamilton - Digital Equipment                               false
+102 hafcp Hamilton M'Fiche Per                                       false
+103 hafmp Hamilton M'Film Per                                        false
+104 haill Hamilton Interlib Loan                                     false
+105 hal   HAMILTON                                                   true
+106 hali  Hamilton Library                                           false
+107 halju Hamilton Juvenile                                          false
+
+                                     Page 2
+108 halst Hamilton Storage                                           false
+109 hamc  Hamilton Popular Reading                                   false
+110 hamp  Hamilton Periodical                                        false
+111 hamuh Hamilton Archives                                          false
+112 hanb  Hamilton Nonbook                                           false
+113 har   Hamilton Reference                                         false
+114 hars  Hamilton Reserve                                           false
+115 he1bg Heidelberg College                                         false
+116 hi2bg Hiram College                                              false
+117 ho4tg Hocking CC                                                 false
+118 ill   Interlibrary Loan                                          false
+119 imat  King Library, Ground Floor, IMC, Audio Tapes               false
+120 imbk  King Library, Ground Floor, IMC, Books                     false
+121 imbkt King Library, Ground Floor, IMC, Textbooks                 false
+122 imc   King Library, Ground Floor, IMC                            true
+123 imcc  King Library, Ground Floor, IMC                            false
+124 imci  King Library, Ground Floor, IMC                            false
+125 imcrm King Library, Ground Floor, IMC, CD-ROM                    false
+126 imcur King Library, Ground Floor, IMC, Curriculum Materials      false
+127 imdvd King Library, Ground Floor, IMC, DVD                       false
+128 imell King Library, Ground Floor, IMC, English Language Learning false
+129 imeq  King Library, Ground Floor, IMC, Equipment                 false
+130 imfcc King Microfiche                                            false
+131 imfma King Microfilm                                             false
+132 imfmc King Microfilm                                             false
+133 imfmn King Microfilm Newspaper                                   false
+134 imfmp King Microfilm Periodical                                  false
+135 imhs  King Library, Ground Floor, IMC, Head Set                  false
+136 imjb  King Library, Ground Floor, IMC, Juv Big Book              false
+137 imje  King Library, Ground Floor, IMC, Juv Easy                  false
+138 imju  King Library, Ground Floor, IMC, Juv                       false
+139 imlng King Library, Ground Floor, IMC, Language Materials        false
+140 imm   King Library, Ground Floor, IMC, Curriculum Materials      false
+141 imp   King Library, Ground Floor, IMC, Periodical                false
+142 imprc King Microfilm Guides                                      false
+143 imr   King Library, Ground Floor, IMC, Reference                 false
+144 imrdr King Library, Ground Floor, IMC, Readers                   false
+145 imrs  King Library, Ground Floor, IMC, Reserve                   false
+146 imtst King Library, Ground Floor, IMC, Test                      false
+147 imvc  King Library, Ground Floor, IMC, Video Cassette            false
+148 imvr  King Library, Ground Floor, IMC, VHS Library Use Only      false
+149 imvst imc viewing stations                                       false
+150 jc2ug John Carroll U.                                            false
+151 je2tg Jefferson Technical Coll                                   false
+152 ke2bg Kenyon College                                             false
+153 ke2pl ~Kent Free PL                                              false
+154 ke2ug Kent State Univ                                            false
+155 kingd King Library                                               false
+156 kngc  King Circulation                                           false
+157 kngcg CIM Mini Studio Keys                                       false
+158 kngcm CIM (112 KING)                                             false
+159 kngco King Library Laptops & Tablets (Circulation Desk           false
+160 kngd  King Display                                               false
+161 kngdc King digital camera                                        false
+162 kngeq King Library Digital Equipment (Circulation Desk)          false
+163 kngfo King Folio                                                 false
+164 knggs King grp study rm                                          false
+165 knghs Hill storage cabinets                                      false
+
+                                     Page 3
+166 kngke King Library (internal use key)                            false
+167 kngl  KING                                                       false
+168 kngle King Leisure Reading                                       false
+169 kngli King Library (2nd floor)                                   true
+170 kngln King newspapers                                            false
+171 kngnm King notebook battery mac                                  false
+172 kngnp King notebook battery pc                                   false
+173 kngp  King Periodical (ground floor)                             false
+174 kngpc King power cord                                            false
+175 kngr  King Reference (Ground Floor)                              false
+176 kngrf Kng Fac Read Rm Keys                                       false
+177 kngrg Grad Reading Rm Key                                        false
+178 kngrm King Library CD-ROM                                        false
+179 kngrr King Ready Ref. - 1st Floor, King Library                  false
+180 kngrs King Reserve                                               false
+181 kngsc Duncan storage cabinets                                    false
+182 kngsu King Library Supplies (Circulation Desk)                   false
+183 la2tg Lakeland CC                                                false
+184 le2bg Lake Erie College                                          false
+185 lo1bg Lordes University                                          false
+186 lo2tg Lorain County CC                                           false
+187 ma2bg Malone College                                             false
+188 ma4bg Marietta College                                           false
+189 mc1mh Medical College of Ohio                                    false
+190 mcat  Mid Cataloging                                             false
+191 mda   Middletown Archives                                        false
+192 mdc   Middletown Circulation                                     false
+193 mdcmp Middletown Laptops & Tablets                               false
+194 mdd   Middletown Documents                                       false
+195 mddmp Middletown Doc Map                                         false
+196 mddo  Middletown Ohio Doc                                        false
+197 mddrm Middletown Doc CD-ROM                                      false
+198 mdeq  Middletown Equipment                                       false
+199 mdfcp Middletown M'fiche Per                                     false
+200 mdfmp Middletown M'Film Per                                      false
+201 mdfo  Middletown Folio                                           false
+202 mdgs  Middletown - Group Study Room Key                          false
+203 mdim  Middletown IMC                                             false
+204 mdjcc Mid JH Career Ctr.                                         false
+205 mdju  Middletown Juvenile                                        false
+206 mdl   MIDDLETOWN                                                 true
+207 mdli  Middletown Campus                                          false
+208 mdmc  Middletown Makerspace                                      false
+209 mdn   Middletown New Books                                       false
+210 mdnmd 101 Thesken (Mid.)                                         false
+211 mdp   Middletown Periodicals                                     false
+212 mdr   Middletown Reference                                       false
+213 mdrc  Middletown Recordings                                      false
+214 mdrs  Middletown Reserve                                         false
+215 mdsf  Middletown Sudoc Micro                                     false
+216 mdsr  Middletown Sudoc Ref                                       false
+217 mdtr  Middletown Textbooks On Reserve                            false
+218 me1bg Mercy College Ohio                                         false
+219 mic   MICRO                                                      false
+220 miill Middletown ILL                                             false
+221 mo3bg Mt. St. Joseph University                                  false
+222 ms4sg Methodist Theo. Sch. in Ohio                               false
+223 msl   IMC Slides                                                 false
+
+                                     Page 4
+224 mt4bg Mount Carmel Coll Nursing                                  false
+225 mu2bg University of Mount Union                                  false
+226 mu3ug Miami U                                                    false
+227 mu4bg Muskingum College                                          false
+228 muc   Music Circulation                                          false
+229 mucmp Music Library (Latops & Tablets)                           false
+230 mudc  Music Desk Cabinet                                         false
+231 mueq  Music Equipment (Circulation Desk)                         false
+232 mufo  Music Folio                                                false
+233 mul   MUSIC                                                      true
+234 muli  Music Library                                              false
+235 munb  Music Library - New Books                                  false
+236 mup   Music Periodical                                           false
+237 mur   Music Reference                                            false
+238 murc  MLC                                                        true
+239 murcd Music Listening Ctr.                                       false
+240 murcr LIST. CNTR. RESERVE                                        false
+241 murcv Music Listening Ctr.                                       false
+242 murs  MUSIC RESERVE                                              false
+243 mursp Music - Spotlight Collection (1st floor)                   false
+244 mv4bg Mount Vernon Nazarene Col                                  false
+245 nd2bg Notre Dame Coll. Oh.                                       false
+246 ne2mh NEOMED                                                     false
+247 no1tg Northwest State CC                                         false
+248 nw1bg University of NW Ohio                                      false
+249 ob2bg Oberlin College                                            false
+250 oc4bg Ohio Christian University                                  false
+251 od4bg Ohio Dominicon College                                     false
+252 odswd Southwest Depository                                       false
+253 oh5dp Ohio Depos. NE                                             false
+254 on1ug Ohio Northern Univ.                                        false
+255 onl   ONLINE                                                     true
+256 onl$  Internet Resource                                          false
+257 onl@  Internet Resource                                          false
+258 onlbk Ebook                                                      false
+259 onli  Internet Resource                                          false
+260 onlm  Internet Resource                                          false
+261 onlo  Internet Resource                                          false
+262 onlp  Internet Resource                                          false
+263 onlt  Internet Resource                                          false
+264 onlv  Streaming Video                                            false
+265 onlw  Internet Resource                                          false
+266 op4bg OPAL Libraries                                             false
+267 os4ug Ohio State Univ                                            false
+268 ot4bg Otterbein University                                       false
+269 ou4ug Ohio Univ                                                  false
+270 ow1tg Owens Community College                                    false
+271 ow4ug Ohio Wesleyan University                                   false
+272 pc2pl ~Portage County PL                                         false
+273 pc4sg Pontifical Coll. Josephinum                                false
+274 re2pl ~Reed Memorial PL                                          false
+275 ref   REFERENCE                                                  false
+276 rg2pa SW Depository                                              false
+277 rg2pc SW Depository                                              false
+278 rg2pd SW Depository                                              false
+279 rg2ph SW Depository                                              false
+280 rg2pk SW Depository                                              false
+281 rg2pm SW Depository                                              false
+
+                                     Page 5
+282 rg2ps SW Depository                                              false
+283 rg2ta SW Depository                                              false
+284 rg2tc SW Depository                                              false
+285 rg2td SW Depository                                              false
+286 rg2tf SW Depository M'film                                       false
+287 rg2tg SW Depository                                              false
+288 rg2th SW Depository                                              false
+289 rg2ti SW Depository                                              false
+290 rg2tk SW Depository                                              false
+291 rg2tl SW Depository                                              false
+292 rg2tm SW Depository                                              false
+293 rg2tr Request At Circ Desk                                       false
+294 rg2ts SW Depository                                              false
+295 rgspa SW Depository                                              false
+296 rgspc SW Depository                                              false
+297 rgspd SW Depository                                              false
+298 rgsph SW Depository                                              false
+299 rgspk SW Depository                                              false
+300 rgspm SW Depository                                              false
+301 rgsps SW Depository                                              false
+302 rgsta SW Depository                                              false
+303 rgstc SW Depository                                              false
+304 rgstd SW Depository                                              false
+305 rgstg SW Depository                                              false
+306 rgsth SW Depository                                              false
+307 rgsti SW Depository                                              false
+308 rgstk SW Depository                                              false
+309 rgstm SW Depository                                              false
+310 rgstr Request At Circ Desk                                       false
+311 rgsts SW Depository                                              false
+312 ri4tg Rio Grande CC                                              false
+313 scat  BEST Atlas                                                 false
+314 scc   BEST Library, Information Desk                             false
+315 sccmp BEST Library, Reserves(Computers)                          false
+316 sceq  BEST Library - Equipment                                   false
+317 scfo  BEST Library, Folio, Basement                              false
+318 scfor BEST Library, Folio Ref, Basement                          false
+319 scgs  BEST Library, Reserves, Information Desk (group study)     false
+320 schsm Hughes Storage, BEST Circulating                           false
+321 sckey BEST Keys (Internal Use Only)                              false
+322 sckuc Spec Kuchler Collection Map Cases                          false
+323 sckur Spec Kuchler Collection Oversize                           false
+324 scl   BEST                                                       true
+325 scli  BEST Library, Basement                                     false
+326 sclit Hughes Storage, Thesis                                     false
+327 scmp  BEST Library, Maps                                         false
+328 scmpc BEST Library, Basement, Map Cabinets                       false
+329 scmpv BEST Library, Basement, Map Cases                          false
+330 scov  BEST Library, Oversize, Basement                           false
+331 scper BEST Library, Periodicals, First Floor                     false
+332 scr   BEST Library, Reference, Basement                          false
+333 scrr  Science Ready Reference                                    false
+334 scrs  BEST Library, Reserves, Information Desk                   false
+335 scsup BEST Library, Reserves (Supplies)                          false
+336 sh4ug Shawnee State Univ                                         false
+337 si3tg Sinclair CC                                                false
+338 sl4gg State Library of Ohio                                      false
+339 sm2ug Saint Mary Seminary...                                     false
+
+                                     Page 6
+340 so3tg Southern State CC                                          false
+341 spcfo Spec Coll folio                                            false
+342 spe   SPEC                                                       true
+343 spe18 Spec 1841 Coll.                                            false
+344 spec  Spec Special Collection                                    false
+345 spece Spec Eridelphian Society                                   false
+346 speck Spec King Collection                                       false
+347 speco Spec Covington Coll                                        false
+348 specp Spec Coll Periodical                                       false
+349 specr Spec Coll Reserves                                         false
+350 specs Spec Schoolbooks Coll                                      false
+351 specv Spec Coll Closed Stks                                      false
+352 spedf Spec Defoe Collection                                      false
+353 spefc Spec Microfiche                                            false
+354 spefm Spec Microfilm                                             false
+355 spegr Spec German Collection                                     false
+356 spemg Spec McGuffey Coll                                         false
+357 spemy Spec Myaamia Coll                                          false
+358 spevf Spec Coll Closed Stks folio                                false
+359 spkcb Spec Kuchler Collection Bookshelf                          false
+360 spkfo Spec King Coll folio                                       false
+361 spmss Spec Coll MSS                                              false
+362 swdep SW Depository                                              true
+363 te1tg Terra CC                                                   false
+364 test  Generic test location                                      false
+365 ti1ug Tiffin University                                          false
+366 tl1pl ~Toledo PL                                                 false
+367 tl4sg Trinity Lutheran Seminary                                  false
+368 to1ug Univ of Toledo                                             false
+369 ua4hs Upper Arlington High School                                false
+370 ur2bg Ursuline College                                           false
+371 ur3ug Urbana University                                          false
+372 wa2pl ~Wadsworth Public Library                                  false
+373 wa2ug Walsh University                                           false
+374 wa4tg Washington CC                                              false
+375 wb3ug Wilberforce University                                     false
+376 we4pl Westerville Public Library                                 false
+377 wesar Spec Archives - Western                                    false
+378 wl3bg Wilmington College                                         false
+379 wo2bg The College of Wooster                                     false
+380 ws3ug Wright State U.                                            false
+381 wt2pl ~Warren-Trumbull                                           false
+382 wt3ug Wittenberg University                                      false
+383 xa3ug Xavier University                                          false
+384 xcetc CETC Library                                               false
+385 xconi Confucius Institute 126 McGuffey                           false
+386 xhrbl Herbarium - Upham                                          false
+387 xslol Student Leadership, Hannah House 9-2961                    false
+388 xwocl Women's Center                                             false
+389 xxxxx xxx                                                        false
+390 y0201 U of Akron, Bierce                                         false
+391 y0202 BGSU, Jerome Lib                                           false
+392 y0203 CWRU, Kelvin                                               false
+393 y0204 Central State Univ                                         false
+394 y0205 U of Cin - Langsam                                         false
+395 y0206 Cleveland State Univ                                       false
+396 y0207 U of Dayton - Roesch                                       false
+397 y0208 Kent - Main Circ Dsk                                       false
+
+                                     Page 7
+398 y0209 MCO R.H. Mulford Lib                                       false
+399 y0210 Miami U - King Lib                                         false
+400 y0211 NEOUCOM                                                    false
+401 y0212 OSU - Main Library                                         false
+402 y0213 OU Alden Library                                           false
+403 y0214 SSU Clark Mem Lib                                          false
+404 y0215 SLO Main Library                                           false
+405 y0216 U of Toledo - Carlson                                      false
+406 y0217 WSU - Dunbar                                               false
+407 y0218 YSU Maag Library                                           false
+408 y0301 Belmont Tech Library                                       false
+409 y0303 Clark State CC                                             false
+410 y0304 Columbus State CC                                          false
+411 y0305 Cincinnati State CC                                        false
+412 y0306 Edison CC Library                                          false
+413 y0307 Hocking College                                            false
+414 y0308 Jefferson CC                                               false
+415 y0309 Lakeland CC Library                                        false
+416 y0310 LCCC Library                                               false
+417 y0311 Northwest State CC                                         false
+418 y0312 Owens CCC                                                  false
+419 y0313 Rio Grande                                                 false
+420 y0314 Sinclair CC LRC                                            false
+421 y0316 Terra CC                                                   false
+422 y0317 Washington St CC                                           false
+423 y0322 CCC - Metro Library                                        false
+424 y0323 CCC - West Library                                         false
+425 y0324 CCC - East Library                                         false
+426 y0326 CCC - Westshore Campus                                     false
+427 y0335 SSCC South Campus                                          false
+428 y0336 SSCC Central Campus                                        false
+429 y0337 SSCC North Campus                                          false
+430 y0338 SSCC Fayette Campus                                        false
+431 y0345 Sinclair CC                                                false
+432 y0350 CSCC - Delaware Learning Center                            false
+433 y0380 Lakeland East Madison                                      false
+434 y0381 Lakeland West Willowick                                    false
+435 y0382 Lakeland Main Curbside                                     false
+436 y0383 Lakeland Holden University                                 false
+437 y0401 Oberlin College                                            false
+438 y0402 Ohio Northern-Hetrck                                       false
+439 y0403 Cedarville Univ.                                           false
+440 y0404 Mount St. Joseph Lib                                       false
+441 y0406 Xavier U - McDonald                                        false
+442 y0407 Cap U Blackmore Lib                                        false
+443 y0408 Mt Vernon Nazarene                                         false
+444 y0409 Ursuline College                                           false
+445 y0410 Ohio Dominican                                             false
+446 y0411 Hiram College                                              false
+447 y0412 Witt Univ Thomas Lib                                       false
+448 y0413 John Carroll Univ                                          false
+449 y0415 Ashland Univ                                               false
+450 y0416 Cincinnati Bible Col                                       false
+451 y0417 Marietta College                                           false
+452 y0418 Notre Dame Coll Lib                                        false
+453 y0428 Ohio Northern-Law                                          false
+454 y0430 Franklin Univ                                              false
+455 y0432 Cleveland Clinic                                           false
+
+                                     Page 8
+456 y0434 Myers University                                           false
+457 y0437 Westerville Public Library                                 false
+458 y0440 CCPL Parma-Snow                                            false
+459 y0442 CPPL Fairview Park                                         false
+460 y0444 CCPL Maple Heights                                         false
+461 y0446 CCPL Mayfield Reg                                          false
+462 y0448 CCPL Parma                                                 false
+463 y0450 CCPL Administration                                        false
+464 y0451 CCPL - Metro Health                                        false
+465 y0452 CCPL Bay Village                                           false
+466 y0454 CCPL Beachwood                                             false
+467 y0456 CCPL Berea                                                 false
+468 y0458 CCPL Brecksville                                           false
+469 y0460 CCPL Brook Park                                            false
+470 y0462 CCPL Brooklyn                                              false
+471 y0464 CCPL Chagrin Falls                                         false
+472 y0468 CCPL S Eclid-Lndhrst                                       false
+473 y0470 CCPL Garfield Heights                                      false
+474 y0472 CCPL Gates Mills                                           false
+475 y0474 CCPL Independence                                          false
+476 y0476 CCPL Southeast                                             false
+477 y0478 CCPL Strongsville                                          false
+478 y0480 CCPL Middleberg Hghts                                      false
+479 y0482 CCPL North Olmstead                                        false
+480 y0484 CCPL North Royalton                                        false
+481 y0486 CCPL Olmsted Falls                                         false
+482 y0488 CCPL Orange                                                false
+483 y0490 CCPL Parma Heights                                         false
+484 y0492 CCPL Warrensville                                          false
+485 y0494 CCPL Parma-Ridge                                           false
+486 y0496 CCPL Richmond Mini                                         false
+487 y0498 CCPL Solon                                                 false
+488 y0501 U of Akron, Wayne                                          false
+489 y0502 BGSU, Firelands                                            false
+490 y0503 U of Cincinnati - Blue Ash College                         false
+491 y0504 U of Cin - Clermont                                        false
+492 y0505 U of Cin - Health Sc                                       false
+493 y0506 U of Cin - Law Lib                                         false
+494 y0508 Kent - Trumbull                                            false
+495 y0509 Kent - Salem                                               false
+496 y0510 Kent - Stark                                               false
+497 y0511 Kent - Tuscarawas                                          false
+498 y0512 Kent - Geauga                                              false
+499 y0513 Kent - Ashtabula                                           false
+500 y0514 Kent -East Liverpool                                       false
+501 y0516 Miami U - Middletown                                       false
+502 y0517 Miami U - Hamilton                                         false
+503 y0518 OSU Lima Campus                                            false
+504 y0520 OSU Ag Tech Inst                                           false
+505 y0521 OSU Mansfield Campus                                       false
+506 y0522 OSU - Marion                                               false
+507 y0523 OSU Newark Campus                                          false
+508 y0524 OSU - Moritz Law                                           false
+509 y0525 OSU - Health Sci.                                          false
+510 y0526 OSU Sullivant                                              false
+511 y0527 OSU OARDC Wooster                                          false
+512 y0528 OSU Science & Engineering                                  false
+513 y0529 OU Eastern Campus                                          false
+
+                                     Page 9
+514 y0530 OU Chillicothe Campus                                      false
+515 y0531 OU Zanesville Campus                                       false
+516 y0532 OU Lancaster Campus                                        false
+517 y0533 OU Southern Campus                                         false
+518 y0535 Ohio U-Proctorville Ctr                                    false
+519 y0536 OU Music/Dance Library                                     false
+520 y0545 U of Toledo - Law Lib                                      false
+521 y0549 WSU - Lake Campus                                          false
+522 y0550 U of Toledo-Scott Pk                                       false
+523 y0553 CWRU, Health Sci                                           false
+524 y0601 Athenaeum Library                                          false
+525 y0603 Antioch College Lib                                        false
+526 y0604 Antioch University Lib                                     false
+527 y0605 Baldwin-Wall Ritter                                        false
+528 y0607 Bluffton College Lib                                       false
+529 y0608 Cols Coll Art & Des                                        false
+530 y0609 Defiance College Lib                                       false
+531 y0611 U Findlay Shafer Lib                                       false
+532 y0613 Franciscan JP II Lib                                       false
+533 y0615 Heidelberg Beeghly                                         false
+534 y0616 Lourdes Coll Library                                       false
+535 y0617 Malone College Lib                                         false
+536 y0618 Mercy College                                              false
+537 y0619 Mt Carmel West Lib                                         false
+538 y0621 Mt Union Main Lib                                          false
+539 y0623 Muskingum Coll Lib                                         false
+540 y0625 Otterbein Coll Lib                                         false
+541 y0627 Tiffin Univ Library                                        false
+542 y0628 Urbana Univ Lib                                            false
+543 y0629 Wilberforce Univ Lib                                       false
+544 y0631 Wilmington Coll Lib                                        false
+545 y0635 Tiffin Univ Lima                                           false
+546 y0637 Tiffin Univ Lorain                                         false
+547 y0640 Walsh University                                           false
+548 y0642 Methodist Theo. Sch. in Ohio                               false
+549 y0644 Pontifical Coll. Josephinum                                false
+550 y0646 Trinity Lutheran Seminary                                  false
+551 y0648 Ohio Christian University PUA                              false
+552 y0670 Saint Mary Sem...PUA                                       false
+553 y0672 University of NW OH PUA                                    false
+554 y0701 Denison Univ - Doane                                       false
+555 y0703 Kenyon College                                             false
+556 y0705 OWU - Beeghly Lib                                          false
+557 y0707 College of Wooster                                         false
+558 yccpl CCPL Southeast                                             false
+559 ym2pl ~Youngstown-Mahoning                                       false
+560 ys2ug Youngstown State Univ                                      false
