@@ -1,579 +1,579 @@
-    Code  Branch Name                                                Public
-1   9ascp ~Akron-Summit County PL                                    false
-2   9cinc ~Cincinnati-Hamilton County Public Library                 false
-3   9cler ~Clermont County Public Library                            false
-4   9delo ~Delaware Co District Lib                                  false
-5   9geap ~Geauga Public Library                                     false
-6   9lane ~Lane Public Library                                       false
-7   9loui ~Louisville PL                                             false
-8   9lsvp ~Louisville Public Library                                 false
-9   9mass ~Massillon PL                                              false
-10  9ment ~Mentor PL                                                 false
-11  9midp ~Midpointe Library System                                  false
-12  9mrpl ~Mansfield-Richland PL                                     false
-13  9msln ~Massillon Public Library                                  false
-14  9rodm ~Rodman PL                                                 false
-15  9rrpl ~Rocky River Public Library                                false
-16  9slic ~Stark Libs Info Consort                                   false
-17  9smfp ~Stow-Munroe Falls Public Library                          false
-18  9star ~Stark County DL                                           false
-19  9wcpl ~Washington-Centerville Public Library                     false
-20  9wppl Westlake Porter Public Library                             false
-21  aac   ArtArch Circulation                                        false
-22  aacls ArtArch Clsd Stacks                                        false
-23  aacmp ArtArch Laptops (Circulation)                              false
-24  aaeq  ArtArch Digital Equipment (Circulation)                    false
-25  aaff  ArtArch Oversize                                           false
-26  aafo  ArtArch Folio                                              false
-27  aagn  ArtArch Graphic Novels                                     false
-28  aags  ArtArch Group Study Rooms (Circulation)                    false
-29  aal   ART ARCHITECTURE                                           true
-30  aali  ArtArch                                                    false
-31  aaml  ArtArch Materials Library                                  false
-32  aap   ArtArch Periodical                                         false
-33  aar   ArtArch Reference                                          false
-34  aarm  ArtArch CD-ROM                                             false
-35  aars  ArtArch Reserve                                            false
-36  aast  ArtArch Storage                                            false
-37  aasup ArtArch Supplies (Circulation)                             false
-38  aavc  ArtArch Video Cass                                         false
-39  acq   King Acquisitions Dept.                                    false
-40  ak2ug University of Akron                                        false
-41  an3bg Antioch College                                            false
-42  arcli Spec Archives                                              false
-43  as2ug Ashland University                                         false
-44  at3ug Athenaeum of Ohio                                          false
-45  au3bg Antioch University                                         false
-46  be4tg Belmont College                                            false
-47  bf1ug Bluffton University                                        false
-48  bg1ug Bowling Green State Univ                                   false
-49  bw3bg Baldwin Wallace University                                 false
-
-                                     Page 1
-50  ca2ug Case Western Reserve Univ                                  false
-51  cat   King Catalog Dept.                                         false
-52  cb3bg Cincinnati Christian Univ                                  false
-53  cc2mh Cleveland Clinic                                           false
-54  cc2pl Cuyahoga Co. P.L.                                          false
-55  cc2tg Cuyahoga CC                                                false
-56  ccat  Copy Cataloging                                            false
-57  cd3bg Cedarville University                                      false
-58  ce3ug Central State University                                   false
-59  cf2pl ~Cuyahoga Falls PL                                         false
-60  ci3ug Univ. of Cincinnati                                        false
-61  cl3tg Clark State CC                                             false
-62  co4bg Columbus Coll Art Design                                   false
-63  co4tg Columbus State CC                                          false
-64  cp4ug Capital University                                         false
-65  cr0xx Cntr Research Libs                                         false
-66  cr0zz Cnter Research Libs                                        false
-67  crl   Center Research Library                                    false
-68  cs2ug Cleveland State U                                          false
-69  ct3tg Cincinnati St. Com. Col.                                   false
-70  da3ug Univ of Dayton                                             false
-71  de1bg Defiance College                                           false
-72  de4ug Denison University                                         false
-73  dean  Dean's office                                              false
-74  dm2ug Myers University                                           false
-75  doc   King - GOV                                                 true
-76  docc  King - Govt & Law Census                                   false
-77  doceu King - Govt & Law Europe                                   false
-78  docfs Govt & Law Folio Cabinet                                   false
-79  docl  King- Govt & Law - Law                                     false
-80  docli King - Govt & Law US                                       false
-81  doclo Internet Resource                                          false
-82  doco  King - Govt & Law Ohio                                     false
-83  docpu Govt Info/Law Hold Shelf                                   false
-84  docr  King-Govt & Law Reference                                  false
-85  docrm King - Govt & Law CD-ROM                                   false
-86  docrs King - Govt & Law Reserve                                  false
-87  docsr King-Govt & Law US Ref                                     false
-88  docun King - Govt & Law UN                                       false
-89  docvs Govt & Law Video Storage                                   false
-90  ed3tg Edison State Cc                                            false
-91  ext   Other Campus Collections                                   true
-92  fc2bg CONSORT Colleges                                           false
-93  fi1ug University of Findlay                                      false
-94  fr2ug Franciscan University                                      false
-95  fr4ug Franklin U                                                 false
-96  game1 KingGamingLab                                              false
-97  gc1pl ~Greene Co PL                                              false
-98  haat  Hamilton Atlas Case                                        false
-99  hacmp Hamilton - Computer                                        false
-100 hadi  Hamilton Display                                           false
-101 haeq  Hamilton - Digital Equipment                               false
-102 hafcp Hamilton M'Fiche Per                                       false
-103 hafmp Hamilton M'Film Per                                        false
-104 haill Hamilton Interlib Loan                                     false
-105 hal   HAMILTON                                                   true
-106 hali  Hamilton Library                                           false
-107 halju Hamilton Juvenile                                          false
-
-                                     Page 2
-108 halst Hamilton Storage                                           false
-109 hamc  Hamilton Popular Reading                                   false
-110 hamp  Hamilton Periodical                                        false
-111 hamuh Hamilton Archives                                          false
-112 hanb  Hamilton Nonbook                                           false
-113 har   Hamilton Reference                                         false
-114 hars  Hamilton Reserve                                           false
-115 he1bg Heidelberg College                                         false
-116 hi2bg Hiram College                                              false
-117 ho4tg Hocking CC                                                 false
-118 ill   Interlibrary Loan                                          false
-119 imat  King Library, Ground Floor, IMC, Audio Tapes               false
-120 imbk  King Library, Ground Floor, IMC, Books                     false
-121 imbkt King Library, Ground Floor, IMC, Textbooks                 false
-122 imc   King Library, Ground Floor, IMC                            true
-123 imcc  King Library, Ground Floor, IMC                            false
-124 imci  King Library, Ground Floor, IMC                            false
-125 imcrm King Library, Ground Floor, IMC, CD-ROM                    false
-126 imcur King Library, Ground Floor, IMC, Curriculum Materials      false
-127 imdvd King Library, Ground Floor, IMC, DVD                       false
-128 imell King Library, Ground Floor, IMC, English Language Learning false
-129 imeq  King Library, Ground Floor, IMC, Equipment                 false
-130 imfcc King Microfiche                                            false
-131 imfma King Microfilm                                             false
-132 imfmc King Microfilm                                             false
-133 imfmn King Microfilm Newspaper                                   false
-134 imfmp King Microfilm Periodical                                  false
-135 imhs  King Library, Ground Floor, IMC, Head Set                  false
-136 imjb  King Library, Ground Floor, IMC, Juv Big Book              false
-137 imje  King Library, Ground Floor, IMC, Juv Easy                  false
-138 imju  King Library, Ground Floor, IMC, Juv                       false
-139 imlng King Library, Ground Floor, IMC, Language Materials        false
-140 imm   King Library, Ground Floor, IMC, Curriculum Materials      false
-141 imp   King Library, Ground Floor, IMC, Periodical                false
-142 imprc King Microfilm Guides                                      false
-143 imr   King Library, Ground Floor, IMC, Reference                 false
-144 imrdr King Library, Ground Floor, IMC, Readers                   false
-145 imrs  King Library, Ground Floor, IMC, Reserve                   false
-146 imtst King Library, Ground Floor, IMC, Test                      false
-147 imvc  King Library, Ground Floor, IMC, Video Cassette            false
-148 imvr  King Library, Ground Floor, IMC, VHS Library Use Only      false
-149 imvst imc viewing stations                                       false
-150 jc2ug John Carroll U.                                            false
-151 je2tg Jefferson Technical Coll                                   false
-152 ke2bg Kenyon College                                             false
-153 ke2pl ~Kent Free PL                                              false
-154 ke2ug Kent State Univ                                            false
-155 kingd King Library                                               false
-156 kngc  King Circulation                                           false
-157 kngcg CIM Mini Studio Keys                                       false
-158 kngcm CIM (112 KING)                                             false
-159 kngco King Library Laptops & Tablets (Circulation Desk           false
-160 kngd  King Display                                               false
-161 kngdc King digital camera                                        false
-162 kngeq King Library Digital Equipment (Circulation Desk)          false
-163 kngfo King Folio                                                 false
-164 knggs King grp study rm                                          false
-165 knghs Hill storage cabinets                                      false
-
-                                     Page 3
-166 kngke King Library (internal use key)                            false
-167 kngl  KING                                                       false
-168 kngle King Leisure Reading                                       false
-169 kngli King Library (2nd floor)                                   true
-170 kngln King newspapers                                            false
-171 kngnm King notebook battery mac                                  false
-172 kngnp King notebook battery pc                                   false
-173 kngp  King Periodical (ground floor)                             false
-174 kngpc King power cord                                            false
-175 kngr  King Reference (Ground Floor)                              false
-176 kngrf Kng Fac Read Rm Keys                                       false
-177 kngrg Grad Reading Rm Key                                        false
-178 kngrm King Library CD-ROM                                        false
-179 kngrr King Ready Ref. - 1st Floor, King Library                  false
-180 kngrs King Reserve                                               false
-181 kngsc Duncan storage cabinets                                    false
-182 kngsu King Library Supplies (Circulation Desk)                   false
-183 la2tg Lakeland CC                                                false
-184 le2bg Lake Erie College                                          false
-185 lo1bg Lordes University                                          false
-186 lo2tg Lorain County CC                                           false
-187 ma2bg Malone College                                             false
-188 ma4bg Marietta College                                           false
-189 mc1mh Medical College of Ohio                                    false
-190 mcat  Mid Cataloging                                             false
-191 mda   Middletown Archives                                        false
-192 mdc   Middletown Circulation                                     false
-193 mdcmp Middletown Laptops & Tablets                               false
-194 mdd   Middletown Documents                                       false
-195 mddmp Middletown Doc Map                                         false
-196 mddo  Middletown Ohio Doc                                        false
-197 mddrm Middletown Doc CD-ROM                                      false
-198 mdeq  Middletown Equipment                                       false
-199 mdfcp Middletown M'fiche Per                                     false
-200 mdfmp Middletown M'Film Per                                      false
-201 mdfo  Middletown Folio                                           false
-202 mdgs  Middletown - Group Study Room Key                          false
-203 mdim  Middletown IMC                                             false
-204 mdjcc Mid JH Career Ctr.                                         false
-205 mdju  Middletown Juvenile                                        false
-206 mdl   MIDDLETOWN                                                 true
-207 mdli  Middletown Campus                                          false
-208 mdmc  Middletown Makerspace                                      false
-209 mdn   Middletown New Books                                       false
-210 mdnmd 101 Thesken (Mid.)                                         false
-211 mdp   Middletown Periodicals                                     false
-212 mdr   Middletown Reference                                       false
-213 mdrc  Middletown Recordings                                      false
-214 mdrs  Middletown Reserve                                         false
-215 mdsf  Middletown Sudoc Micro                                     false
-216 mdsr  Middletown Sudoc Ref                                       false
-217 mdtr  Middletown Textbooks On Reserve                            false
-218 me1bg Mercy College Ohio                                         false
-219 mic   MICRO                                                      false
-220 miill Middletown ILL                                             false
-221 mo3bg Mt. St. Joseph University                                  false
-222 ms4sg Methodist Theo. Sch. in Ohio                               false
-223 msl   IMC Slides                                                 false
-
-                                     Page 4
-224 mt4bg Mount Carmel Coll Nursing                                  false
-225 mu2bg University of Mount Union                                  false
-226 mu3ug Miami U                                                    false
-227 mu4bg Muskingum College                                          false
-228 muc   Music Circulation                                          false
-229 mucmp Music Library (Latops & Tablets)                           false
-230 mudc  Music Desk Cabinet                                         false
-231 mueq  Music Equipment (Circulation Desk)                         false
-232 mufo  Music Folio                                                false
-233 mul   MUSIC                                                      true
-234 muli  Music Library                                              false
-235 munb  Music Library - New Books                                  false
-236 mup   Music Periodical                                           false
-237 mur   Music Reference                                            false
-238 murc  MLC                                                        true
-239 murcd Music Listening Ctr.                                       false
-240 murcr LIST. CNTR. RESERVE                                        false
-241 murcv Music Listening Ctr.                                       false
-242 murs  MUSIC RESERVE                                              false
-243 mursp Music - Spotlight Collection (1st floor)                   false
-244 mv4bg Mount Vernon Nazarene Col                                  false
-245 nd2bg Notre Dame Coll. Oh.                                       false
-246 ne2mh NEOMED                                                     false
-247 no1tg Northwest State CC                                         false
-248 nw1bg University of NW Ohio                                      false
-249 ob2bg Oberlin College                                            false
-250 oc4bg Ohio Christian University                                  false
-251 od4bg Ohio Dominicon College                                     false
-252 odswd Southwest Depository                                       false
-253 oh5dp Ohio Depos. NE                                             false
-254 on1ug Ohio Northern Univ.                                        false
-255 onl   ONLINE                                                     true
-256 onl$  Internet Resource                                          false
-257 onl@  Internet Resource                                          false
-258 onlbk Ebook                                                      false
-259 onli  Internet Resource                                          false
-260 onlm  Internet Resource                                          false
-261 onlo  Internet Resource                                          false
-262 onlp  Internet Resource                                          false
-263 onlt  Internet Resource                                          false
-264 onlv  Streaming Video                                            false
-265 onlw  Internet Resource                                          false
-266 op4bg OPAL Libraries                                             false
-267 os4ug Ohio State Univ                                            false
-268 ot4bg Otterbein University                                       false
-269 ou4ug Ohio Univ                                                  false
-270 ow1tg Owens Community College                                    false
-271 ow4ug Ohio Wesleyan University                                   false
-272 pc2pl ~Portage County PL                                         false
-273 pc4sg Pontifical Coll. Josephinum                                false
-274 re2pl ~Reed Memorial PL                                          false
-275 ref   REFERENCE                                                  false
-276 rg2pa SW Depository                                              false
-277 rg2pc SW Depository                                              false
-278 rg2pd SW Depository                                              false
-279 rg2ph SW Depository                                              false
-280 rg2pk SW Depository                                              false
-281 rg2pm SW Depository                                              false
-
-                                     Page 5
-282 rg2ps SW Depository                                              false
-283 rg2ta SW Depository                                              false
-284 rg2tc SW Depository                                              false
-285 rg2td SW Depository                                              false
-286 rg2tf SW Depository M'film                                       false
-287 rg2tg SW Depository                                              false
-288 rg2th SW Depository                                              false
-289 rg2ti SW Depository                                              false
-290 rg2tk SW Depository                                              false
-291 rg2tl SW Depository                                              false
-292 rg2tm SW Depository                                              false
-293 rg2tr Request At Circ Desk                                       false
-294 rg2ts SW Depository                                              false
-295 rgspa SW Depository                                              false
-296 rgspc SW Depository                                              false
-297 rgspd SW Depository                                              false
-298 rgsph SW Depository                                              false
-299 rgspk SW Depository                                              false
-300 rgspm SW Depository                                              false
-301 rgsps SW Depository                                              false
-302 rgsta SW Depository                                              false
-303 rgstc SW Depository                                              false
-304 rgstd SW Depository                                              false
-305 rgstg SW Depository                                              false
-306 rgsth SW Depository                                              false
-307 rgsti SW Depository                                              false
-308 rgstk SW Depository                                              false
-309 rgstm SW Depository                                              false
-310 rgstr Request At Circ Desk                                       false
-311 rgsts SW Depository                                              false
-312 ri4tg Rio Grande CC                                              false
-313 scat  BEST Atlas                                                 false
-314 scc   BEST Library, Information Desk                             false
-315 sccmp BEST Library, Reserves(Computers)                          false
-316 sceq  BEST Library - Equipment                                   false
-317 scfo  BEST Library, Folio, Basement                              false
-318 scfor BEST Library, Folio Ref, Basement                          false
-319 scgs  BEST Library, Reserves, Information Desk (group study)     false
-320 schsm Hughes Storage, BEST Circulating                           false
-321 sckey BEST Keys (Internal Use Only)                              false
-322 sckuc Spec Kuchler Collection Map Cases                          false
-323 sckur Spec Kuchler Collection Oversize                           false
-324 scl   BEST                                                       true
-325 scli  BEST Library, Basement                                     false
-326 sclit Hughes Storage, Thesis                                     false
-327 scmp  BEST Library, Maps                                         false
-328 scmpc BEST Library, Basement, Map Cabinets                       false
-329 scmpv BEST Library, Basement, Map Cases                          false
-330 scov  BEST Library, Oversize, Basement                           false
-331 scper BEST Library, Periodicals, First Floor                     false
-332 scr   BEST Library, Reference, Basement                          false
-333 scrr  Science Ready Reference                                    false
-334 scrs  BEST Library, Reserves, Information Desk                   false
-335 scsup BEST Library, Reserves (Supplies)                          false
-336 sh4ug Shawnee State Univ                                         false
-337 si3tg Sinclair CC                                                false
-338 sl4gg State Library of Ohio                                      false
-339 sm2ug Saint Mary Seminary...                                     false
-
-                                     Page 6
-340 so3tg Southern State CC                                          false
-341 spcfo Spec Coll folio                                            false
-342 spe   SPEC                                                       true
-343 spe18 Spec 1841 Coll.                                            false
-344 spec  Spec Special Collection                                    false
-345 spece Spec Eridelphian Society                                   false
-346 speck Spec King Collection                                       false
-347 speco Spec Covington Coll                                        false
-348 specp Spec Coll Periodical                                       false
-349 specr Spec Coll Reserves                                         false
-350 specs Spec Schoolbooks Coll                                      false
-351 specv Spec Coll Closed Stks                                      false
-352 spedf Spec Defoe Collection                                      false
-353 spefc Spec Microfiche                                            false
-354 spefm Spec Microfilm                                             false
-355 spegr Spec German Collection                                     false
-356 spemg Spec McGuffey Coll                                         false
-357 spemy Spec Myaamia Coll                                          false
-358 spevf Spec Coll Closed Stks folio                                false
-359 spkcb Spec Kuchler Collection Bookshelf                          false
-360 spkfo Spec King Coll folio                                       false
-361 spmss Spec Coll MSS                                              false
-362 swdep SW Depository                                              true
-363 te1tg Terra CC                                                   false
-364 test  Generic test location                                      false
-365 ti1ug Tiffin University                                          false
-366 tl1pl ~Toledo PL                                                 false
-367 tl4sg Trinity Lutheran Seminary                                  false
-368 to1ug Univ of Toledo                                             false
-369 ua4hs Upper Arlington High School                                false
-370 ur2bg Ursuline College                                           false
-371 ur3ug Urbana University                                          false
-372 wa2pl ~Wadsworth Public Library                                  false
-373 wa2ug Walsh University                                           false
-374 wa4tg Washington CC                                              false
-375 wb3ug Wilberforce University                                     false
-376 we4pl Westerville Public Library                                 false
-377 wesar Spec Archives - Western                                    false
-378 wl3bg Wilmington College                                         false
-379 wo2bg The College of Wooster                                     false
-380 ws3ug Wright State U.                                            false
-381 wt2pl ~Warren-Trumbull                                           false
-382 wt3ug Wittenberg University                                      false
-383 xa3ug Xavier University                                          false
-384 xcetc CETC Library                                               false
-385 xconi Confucius Institute 126 McGuffey                           false
-386 xhrbl Herbarium - Upham                                          false
-387 xslol Student Leadership, Hannah House 9-2961                    false
-388 xwocl Women's Center                                             false
-389 xxxxx xxx                                                        false
-390 y0201 U of Akron, Bierce                                         false
-391 y0202 BGSU, Jerome Lib                                           false
-392 y0203 CWRU, Kelvin                                               false
-393 y0204 Central State Univ                                         false
-394 y0205 U of Cin - Langsam                                         false
-395 y0206 Cleveland State Univ                                       false
-396 y0207 U of Dayton - Roesch                                       false
-397 y0208 Kent - Main Circ Dsk                                       false
-
-                                     Page 7
-398 y0209 MCO R.H. Mulford Lib                                       false
-399 y0210 Miami U - King Lib                                         false
-400 y0211 NEOUCOM                                                    false
-401 y0212 OSU - Main Library                                         false
-402 y0213 OU Alden Library                                           false
-403 y0214 SSU Clark Mem Lib                                          false
-404 y0215 SLO Main Library                                           false
-405 y0216 U of Toledo - Carlson                                      false
-406 y0217 WSU - Dunbar                                               false
-407 y0218 YSU Maag Library                                           false
-408 y0301 Belmont Tech Library                                       false
-409 y0303 Clark State CC                                             false
-410 y0304 Columbus State CC                                          false
-411 y0305 Cincinnati State CC                                        false
-412 y0306 Edison CC Library                                          false
-413 y0307 Hocking College                                            false
-414 y0308 Jefferson CC                                               false
-415 y0309 Lakeland CC Library                                        false
-416 y0310 LCCC Library                                               false
-417 y0311 Northwest State CC                                         false
-418 y0312 Owens CCC                                                  false
-419 y0313 Rio Grande                                                 false
-420 y0314 Sinclair CC LRC                                            false
-421 y0316 Terra CC                                                   false
-422 y0317 Washington St CC                                           false
-423 y0322 CCC - Metro Library                                        false
-424 y0323 CCC - West Library                                         false
-425 y0324 CCC - East Library                                         false
-426 y0326 CCC - Westshore Campus                                     false
-427 y0335 SSCC South Campus                                          false
-428 y0336 SSCC Central Campus                                        false
-429 y0337 SSCC North Campus                                          false
-430 y0338 SSCC Fayette Campus                                        false
-431 y0345 Sinclair CC                                                false
-432 y0350 CSCC - Delaware Learning Center                            false
-433 y0380 Lakeland East Madison                                      false
-434 y0381 Lakeland West Willowick                                    false
-435 y0382 Lakeland Main Curbside                                     false
-436 y0383 Lakeland Holden University                                 false
-437 y0401 Oberlin College                                            false
-438 y0402 Ohio Northern-Hetrck                                       false
-439 y0403 Cedarville Univ.                                           false
-440 y0404 Mount St. Joseph Lib                                       false
-441 y0406 Xavier U - McDonald                                        false
-442 y0407 Cap U Blackmore Lib                                        false
-443 y0408 Mt Vernon Nazarene                                         false
-444 y0409 Ursuline College                                           false
-445 y0410 Ohio Dominican                                             false
-446 y0411 Hiram College                                              false
-447 y0412 Witt Univ Thomas Lib                                       false
-448 y0413 John Carroll Univ                                          false
-449 y0415 Ashland Univ                                               false
-450 y0416 Cincinnati Bible Col                                       false
-451 y0417 Marietta College                                           false
-452 y0418 Notre Dame Coll Lib                                        false
-453 y0428 Ohio Northern-Law                                          false
-454 y0430 Franklin Univ                                              false
-455 y0432 Cleveland Clinic                                           false
-
-                                     Page 8
-456 y0434 Myers University                                           false
-457 y0437 Westerville Public Library                                 false
-458 y0440 CCPL Parma-Snow                                            false
-459 y0442 CPPL Fairview Park                                         false
-460 y0444 CCPL Maple Heights                                         false
-461 y0446 CCPL Mayfield Reg                                          false
-462 y0448 CCPL Parma                                                 false
-463 y0450 CCPL Administration                                        false
-464 y0451 CCPL - Metro Health                                        false
-465 y0452 CCPL Bay Village                                           false
-466 y0454 CCPL Beachwood                                             false
-467 y0456 CCPL Berea                                                 false
-468 y0458 CCPL Brecksville                                           false
-469 y0460 CCPL Brook Park                                            false
-470 y0462 CCPL Brooklyn                                              false
-471 y0464 CCPL Chagrin Falls                                         false
-472 y0468 CCPL S Eclid-Lndhrst                                       false
-473 y0470 CCPL Garfield Heights                                      false
-474 y0472 CCPL Gates Mills                                           false
-475 y0474 CCPL Independence                                          false
-476 y0476 CCPL Southeast                                             false
-477 y0478 CCPL Strongsville                                          false
-478 y0480 CCPL Middleberg Hghts                                      false
-479 y0482 CCPL North Olmstead                                        false
-480 y0484 CCPL North Royalton                                        false
-481 y0486 CCPL Olmsted Falls                                         false
-482 y0488 CCPL Orange                                                false
-483 y0490 CCPL Parma Heights                                         false
-484 y0492 CCPL Warrensville                                          false
-485 y0494 CCPL Parma-Ridge                                           false
-486 y0496 CCPL Richmond Mini                                         false
-487 y0498 CCPL Solon                                                 false
-488 y0501 U of Akron, Wayne                                          false
-489 y0502 BGSU, Firelands                                            false
-490 y0503 U of Cincinnati - Blue Ash College                         false
-491 y0504 U of Cin - Clermont                                        false
-492 y0505 U of Cin - Health Sc                                       false
-493 y0506 U of Cin - Law Lib                                         false
-494 y0508 Kent - Trumbull                                            false
-495 y0509 Kent - Salem                                               false
-496 y0510 Kent - Stark                                               false
-497 y0511 Kent - Tuscarawas                                          false
-498 y0512 Kent - Geauga                                              false
-499 y0513 Kent - Ashtabula                                           false
-500 y0514 Kent -East Liverpool                                       false
-501 y0516 Miami U - Middletown                                       false
-502 y0517 Miami U - Hamilton                                         false
-503 y0518 OSU Lima Campus                                            false
-504 y0520 OSU Ag Tech Inst                                           false
-505 y0521 OSU Mansfield Campus                                       false
-506 y0522 OSU - Marion                                               false
-507 y0523 OSU Newark Campus                                          false
-508 y0524 OSU - Moritz Law                                           false
-509 y0525 OSU - Health Sci.                                          false
-510 y0526 OSU Sullivant                                              false
-511 y0527 OSU OARDC Wooster                                          false
-512 y0528 OSU Science & Engineering                                  false
-513 y0529 OU Eastern Campus                                          false
-
-                                     Page 9
-514 y0530 OU Chillicothe Campus                                      false
-515 y0531 OU Zanesville Campus                                       false
-516 y0532 OU Lancaster Campus                                        false
-517 y0533 OU Southern Campus                                         false
-518 y0535 Ohio U-Proctorville Ctr                                    false
-519 y0536 OU Music/Dance Library                                     false
-520 y0545 U of Toledo - Law Lib                                      false
-521 y0549 WSU - Lake Campus                                          false
-522 y0550 U of Toledo-Scott Pk                                       false
-523 y0553 CWRU, Health Sci                                           false
-524 y0601 Athenaeum Library                                          false
-525 y0603 Antioch College Lib                                        false
-526 y0604 Antioch University Lib                                     false
-527 y0605 Baldwin-Wall Ritter                                        false
-528 y0607 Bluffton College Lib                                       false
-529 y0608 Cols Coll Art & Des                                        false
-530 y0609 Defiance College Lib                                       false
-531 y0611 U Findlay Shafer Lib                                       false
-532 y0613 Franciscan JP II Lib                                       false
-533 y0615 Heidelberg Beeghly                                         false
-534 y0616 Lourdes Coll Library                                       false
-535 y0617 Malone College Lib                                         false
-536 y0618 Mercy College                                              false
-537 y0619 Mt Carmel West Lib                                         false
-538 y0621 Mt Union Main Lib                                          false
-539 y0623 Muskingum Coll Lib                                         false
-540 y0625 Otterbein Coll Lib                                         false
-541 y0627 Tiffin Univ Library                                        false
-542 y0628 Urbana Univ Lib                                            false
-543 y0629 Wilberforce Univ Lib                                       false
-544 y0631 Wilmington Coll Lib                                        false
-545 y0635 Tiffin Univ Lima                                           false
-546 y0637 Tiffin Univ Lorain                                         false
-547 y0640 Walsh University                                           false
-548 y0642 Methodist Theo. Sch. in Ohio                               false
-549 y0644 Pontifical Coll. Josephinum                                false
-550 y0646 Trinity Lutheran Seminary                                  false
-551 y0648 Ohio Christian University PUA                              false
-552 y0670 Saint Mary Sem...PUA                                       false
-553 y0672 University of NW OH PUA                                    false
-554 y0701 Denison Univ - Doane                                       false
-555 y0703 Kenyon College                                             false
-556 y0705 OWU - Beeghly Lib                                          false
-557 y0707 College of Wooster                                         false
-558 yccpl CCPL Southeast                                             false
-559 ym2pl ~Youngstown-Mahoning                                       false
-560 ys2ug Youngstown State Univ                                      false
+,Code,Branch Name,Public
+1,9ascp,~Akron-Summit County PL,FALSE
+2,9cinc,~Cincinnati-Hamilton County Public Library,FALSE
+3,9cler,~Clermont County Public Library,FALSE
+4,9delo,~Delaware Co District Lib,FALSE
+5,9geap,~Geauga Public Library,FALSE
+6,9lane,~Lane Public Library,FALSE
+7,9loui,~Louisville PL,FALSE
+8,9lsvp,~Louisville Public Library,FALSE
+9,9mass,~Massillon PL,FALSE
+10,9ment,~Mentor PL,FALSE
+11,9midp,~Midpointe Library System,FALSE
+12,9mrpl,~Mansfield-Richland PL,FALSE
+13,9msln,~Massillon Public Library,FALSE
+14,9rodm,~Rodman PL,FALSE
+15,9rrpl,~Rocky River Public Library,FALSE
+16,9slic,~Stark Libs Info Consort,FALSE
+17,9smfp,~Stow-Munroe Falls Public Library,FALSE
+18,9star,~Stark County DL,FALSE
+19,9wcpl,~Washington-Centerville Public Library,FALSE
+20,9wppl,Westlake Porter Public Library,FALSE
+21,aac,ArtArch Circulation,FALSE
+22,aacls,ArtArch Clsd Stacks,FALSE
+23,aacmp,ArtArch Laptops (Circulation),FALSE
+24,aaeq,ArtArch Digital Equipment (Circulation),FALSE
+25,aaff,ArtArch Oversize,FALSE
+26,aafo,ArtArch Folio,FALSE
+27,aagn,ArtArch Graphic Novels,FALSE
+28,aags,ArtArch Group Study Rooms (Circulation),FALSE
+29,aal,ART ARCHITECTURE,TRUE
+30,aali,ArtArch,FALSE
+31,aaml,ArtArch Materials Library,FALSE
+32,aap,ArtArch Periodical,FALSE
+33,aar,ArtArch Reference,FALSE
+34,aarm,ArtArch CD-ROM,FALSE
+35,aars,ArtArch Reserve,FALSE
+36,aast,ArtArch Storage,FALSE
+37,aasup,ArtArch Supplies (Circulation),FALSE
+38,aavc,ArtArch Video Cass,FALSE
+39,acq,King Acquisitions Dept.,FALSE
+40,ak2ug,University of Akron,FALSE
+41,an3bg,Antioch College,FALSE
+42,arcli,Spec Archives,FALSE
+43,as2ug,Ashland University,FALSE
+44,at3ug,Athenaeum of Ohio,FALSE
+45,au3bg,Antioch University,FALSE
+46,be4tg,Belmont College,FALSE
+47,bf1ug,Bluffton University,FALSE
+48,bg1ug,Bowling Green State Univ,FALSE
+49,bw3bg,Baldwin Wallace University,FALSE
+,,,
+,,Page 1,
+50,ca2ug,Case Western Reserve Univ,FALSE
+51,cat,King Catalog Dept.,FALSE
+52,cb3bg,Cincinnati Christian Univ,FALSE
+53,cc2mh,Cleveland Clinic,FALSE
+54,cc2pl,Cuyahoga Co. P.L.,FALSE
+55,cc2tg,Cuyahoga CC,FALSE
+56,ccat,Copy Cataloging,FALSE
+57,cd3bg,Cedarville University,FALSE
+58,ce3ug,Central State University,FALSE
+59,cf2pl,~Cuyahoga Falls PL,FALSE
+60,ci3ug,Univ. of Cincinnati,FALSE
+61,cl3tg,Clark State CC,FALSE
+62,co4bg,Columbus Coll Art Design,FALSE
+63,co4tg,Columbus State CC,FALSE
+64,cp4ug,Capital University,FALSE
+65,cr0xx,Cntr Research Libs,FALSE
+66,cr0zz,Cnter Research Libs,FALSE
+67,crl,Center Research Library,FALSE
+68,cs2ug,Cleveland State U,FALSE
+69,ct3tg,Cincinnati St. Com. Col.,FALSE
+70,da3ug,Univ of Dayton,FALSE
+71,de1bg,Defiance College,FALSE
+72,de4ug,Denison University,FALSE
+73,dean,Dean's office,FALSE
+74,dm2ug,Myers University,FALSE
+75,doc,King - GOV,TRUE
+76,docc,King - Govt & Law Census,FALSE
+77,doceu,King - Govt & Law Europe,FALSE
+78,docfs,Govt & Law Folio Cabinet,FALSE
+79,docl,King- Govt & Law - Law,FALSE
+80,docli,King - Govt & Law US,FALSE
+81,doclo,Internet Resource,FALSE
+82,doco,King - Govt & Law Ohio,FALSE
+83,docpu,Govt Info/Law Hold Shelf,FALSE
+84,docr,King-Govt & Law Reference,FALSE
+85,docrm,King - Govt & Law CD-ROM,FALSE
+86,docrs,King - Govt & Law Reserve,FALSE
+87,docsr,King-Govt & Law US Ref,FALSE
+88,docun,King - Govt & Law UN,FALSE
+89,docvs,Govt & Law Video Storage,FALSE
+90,ed3tg,Edison State Cc,FALSE
+91,ext,Other Campus Collections,TRUE
+92,fc2bg,CONSORT Colleges,FALSE
+93,fi1ug,University of Findlay,FALSE
+94,fr2ug,Franciscan University,FALSE
+95,fr4ug,Franklin U,FALSE
+96,game1,KingGamingLab,FALSE
+97,gc1pl,~Greene Co PL,FALSE
+98,haat,Hamilton Atlas Case,FALSE
+99,hacmp,Hamilton - Computer,FALSE
+10,0 hadi,Hamilton Display,FALSE
+10,1 haeq,Hamilton - Digital Equipment,FALSE
+10,2 hafcp,Hamilton M'Fiche Per,FALSE
+10,3 hafmp,Hamilton M'Film Per,FALSE
+10,4 haill,Hamilton Interlib Loan,FALSE
+10,5 hal,HAMILTON,TRUE
+10,6 hali,Hamilton Library,FALSE
+10,7 halju,Hamilton Juvenile,FALSE
+,,,
+,,Page 2,
+10,8 halst,Hamilton Storage,FALSE
+10,9 hamc,Hamilton Popular Reading,FALSE
+11,0 hamp,Hamilton Periodical,FALSE
+11,1 hamuh,Hamilton Archives,FALSE
+11,2 hanb,Hamilton Nonbook,FALSE
+11,3 har,Hamilton Reference,FALSE
+11,4 hars,Hamilton Reserve,FALSE
+11,5 he1bg,Heidelberg College,FALSE
+11,6 hi2bg,Hiram College,FALSE
+11,7 ho4tg,Hocking CC,FALSE
+11,8 ill,Interlibrary Loan,FALSE
+11,9 imat,"King Library, Ground Floor, IMC, Audio Tapes",FALSE
+12,0 imbk,"King Library, Ground Floor, IMC, Books",FALSE
+12,1 imbkt,"King Library, Ground Floor, IMC, Textbooks",FALSE
+12,2 imc,"King Library, Ground Floor, IMC",TRUE
+12,3 imcc,"King Library, Ground Floor, IMC",FALSE
+12,4 imci,"King Library, Ground Floor, IMC",FALSE
+12,5 imcrm,"King Library, Ground Floor, IMC, CD-ROM",FALSE
+12,6 imcur,"King Library, Ground Floor, IMC, Curriculum Materials",FALSE
+12,7 imdvd,"King Library, Ground Floor, IMC, DVD",FALSE
+12,8 imell,"King Library, Ground Floor, IMC, English Language Learning",FALSE
+12,9 imeq,"King Library, Ground Floor, IMC, Equipment",FALSE
+13,0 imfcc,King Microfiche,FALSE
+13,1 imfma,King Microfilm,FALSE
+13,2 imfmc,King Microfilm,FALSE
+13,3 imfmn,King Microfilm Newspaper,FALSE
+13,4 imfmp,King Microfilm Periodical,FALSE
+13,5 imhs,"King Library, Ground Floor, IMC, Head Set",FALSE
+13,6 imjb,"King Library, Ground Floor, IMC, Juv Big Book",FALSE
+13,7 imje,"King Library, Ground Floor, IMC, Juv Easy",FALSE
+13,8 imju,"King Library, Ground Floor, IMC, Juv",FALSE
+13,9 imlng,"King Library, Ground Floor, IMC, Language Materials",FALSE
+14,0 imm,"King Library, Ground Floor, IMC, Curriculum Materials",FALSE
+14,1 imp,"King Library, Ground Floor, IMC, Periodical",FALSE
+14,2 imprc,King Microfilm Guides,FALSE
+14,3 imr,"King Library, Ground Floor, IMC, Reference",FALSE
+14,4 imrdr,"King Library, Ground Floor, IMC, Readers",FALSE
+14,5 imrs,"King Library, Ground Floor, IMC, Reserve",FALSE
+14,6 imtst,"King Library, Ground Floor, IMC, Test",FALSE
+14,7 imvc,"King Library, Ground Floor, IMC, Video Cassette",FALSE
+14,8 imvr,"King Library, Ground Floor, IMC, VHS Library Use Only",FALSE
+14,9 imvst,imc viewing stations,FALSE
+15,0 jc2ug,John Carroll U.,FALSE
+15,1 je2tg,Jefferson Technical Coll,FALSE
+15,2 ke2bg,Kenyon College,FALSE
+15,3 ke2pl,~Kent Free PL,FALSE
+15,4 ke2ug,Kent State Univ,FALSE
+15,5 kingd,King Library,FALSE
+15,6 kngc,King Circulation,FALSE
+15,7 kngcg,CIM Mini Studio Keys,FALSE
+15,8 kngcm,CIM (112 KING),FALSE
+15,9 kngco,King Library Laptops & Tablets (Circulation Desk,FALSE
+16,0 kngd,King Display,FALSE
+16,1 kngdc,King digital camera,FALSE
+16,2 kngeq,King Library Digital Equipment (Circulation Desk),FALSE
+16,3 kngfo,King Folio,FALSE
+16,4 knggs,King grp study rm,FALSE
+16,5 knghs,Hill storage cabinets,FALSE
+,,,
+,,Page 3,
+16,6 kngke,King Library (internal use key),FALSE
+16,7 kngl,KING,FALSE
+16,8 kngle,King Leisure Reading,FALSE
+16,9 kngli,King Library (2nd floor),TRUE
+17,0 kngln,King newspapers,FALSE
+17,1 kngnm,King notebook battery mac,FALSE
+17,2 kngnp,King notebook battery pc,FALSE
+17,3 kngp,King Periodical (ground floor),FALSE
+17,4 kngpc,King power cord,FALSE
+17,5 kngr,King Reference (Ground Floor),FALSE
+17,6 kngrf,Kng Fac Read Rm Keys,FALSE
+17,7 kngrg,Grad Reading Rm Key,FALSE
+17,8 kngrm,King Library CD-ROM,FALSE
+17,9 kngrr,"King Ready Ref. - 1st Floor, King Library",FALSE
+18,0 kngrs,King Reserve,FALSE
+18,1 kngsc,Duncan storage cabinets,FALSE
+18,2 kngsu,King Library Supplies (Circulation Desk),FALSE
+18,3 la2tg,Lakeland CC,FALSE
+18,4 le2bg,Lake Erie College,FALSE
+18,5 lo1bg,Lordes University,FALSE
+18,6 lo2tg,Lorain County CC,FALSE
+18,7 ma2bg,Malone College,FALSE
+18,8 ma4bg,Marietta College,FALSE
+18,9 mc1mh,Medical College of Ohio,FALSE
+19,0 mcat,Mid Cataloging,FALSE
+19,1 mda,Middletown Archives,FALSE
+19,2 mdc,Middletown Circulation,FALSE
+19,3 mdcmp,Middletown Laptops & Tablets,FALSE
+19,4 mdd,Middletown Documents,FALSE
+19,5 mddmp,Middletown Doc Map,FALSE
+19,6 mddo,Middletown Ohio Doc,FALSE
+19,7 mddrm,Middletown Doc CD-ROM,FALSE
+19,8 mdeq,Middletown Equipment,FALSE
+19,9 mdfcp,Middletown M'fiche Per,FALSE
+20,0 mdfmp,Middletown M'Film Per,FALSE
+20,1 mdfo,Middletown Folio,FALSE
+20,2 mdgs,Middletown - Group Study Room Key,FALSE
+20,3 mdim,Middletown IMC,FALSE
+20,4 mdjcc,Mid JH Career Ctr.,FALSE
+20,5 mdju,Middletown Juvenile,FALSE
+20,6 mdl,MIDDLETOWN,TRUE
+20,7 mdli,Middletown Campus,FALSE
+20,8 mdmc,Middletown Makerspace,FALSE
+20,9 mdn,Middletown New Books,FALSE
+21,0 mdnmd,101 Thesken (Mid.),FALSE
+21,1 mdp,Middletown Periodicals,FALSE
+21,2 mdr,Middletown Reference,FALSE
+21,3 mdrc,Middletown Recordings,FALSE
+21,4 mdrs,Middletown Reserve,FALSE
+21,5 mdsf,Middletown Sudoc Micro,FALSE
+21,6 mdsr,Middletown Sudoc Ref,FALSE
+21,7 mdtr,Middletown Textbooks On Reserve,FALSE
+21,8 me1bg,Mercy College Ohio,FALSE
+21,9 mic,MICRO,FALSE
+22,0 miill,Middletown ILL,FALSE
+22,1 mo3bg,Mt. St. Joseph University,FALSE
+22,2 ms4sg,Methodist Theo. Sch. in Ohio,FALSE
+22,3 msl,IMC Slides,FALSE
+,,,
+,,Page 4,
+22,4 mt4bg,Mount Carmel Coll Nursing,FALSE
+22,5 mu2bg,University of Mount Union,FALSE
+22,6 mu3ug,Miami U,FALSE
+22,7 mu4bg,Muskingum College,FALSE
+22,8 muc,Music Circulation,FALSE
+22,9 mucmp,Music Library (Latops & Tablets),FALSE
+23,0 mudc,Music Desk Cabinet,FALSE
+23,1 mueq,Music Equipment (Circulation Desk),FALSE
+23,2 mufo,Music Folio,FALSE
+23,3 mul,MUSIC,TRUE
+23,4 muli,Music Library,FALSE
+23,5 munb,Music Library - New Books,FALSE
+23,6 mup,Music Periodical,FALSE
+23,7 mur,Music Reference,FALSE
+23,8 murc,MLC,TRUE
+23,9 murcd,Music Listening Ctr.,FALSE
+24,0 murcr,LIST. CNTR. RESERVE,FALSE
+24,1 murcv,Music Listening Ctr.,FALSE
+24,2 murs,MUSIC RESERVE,FALSE
+24,3 mursp,Music - Spotlight Collection (1st floor),FALSE
+24,4 mv4bg,Mount Vernon Nazarene Col,FALSE
+24,5 nd2bg,Notre Dame Coll. Oh.,FALSE
+24,6 ne2mh,NEOMED,FALSE
+24,7 no1tg,Northwest State CC,FALSE
+24,8 nw1bg,University of NW Ohio,FALSE
+24,9 ob2bg,Oberlin College,FALSE
+25,0 oc4bg,Ohio Christian University,FALSE
+25,1 od4bg,Ohio Dominicon College,FALSE
+25,2 odswd,Southwest Depository,FALSE
+25,3 oh5dp,Ohio Depos. NE,FALSE
+25,4 on1ug,Ohio Northern Univ.,FALSE
+25,5 onl,ONLINE,TRUE
+25,6 onl$,Internet Resource,FALSE
+25,7 onl@,Internet Resource,FALSE
+25,8 onlbk,Ebook,FALSE
+25,9 onli,Internet Resource,FALSE
+26,0 onlm,Internet Resource,FALSE
+26,1 onlo,Internet Resource,FALSE
+26,2 onlp,Internet Resource,FALSE
+26,3 onlt,Internet Resource,FALSE
+26,4 onlv,Streaming Video,FALSE
+26,5 onlw,Internet Resource,FALSE
+26,6 op4bg,OPAL Libraries,FALSE
+26,7 os4ug,Ohio State Univ,FALSE
+26,8 ot4bg,Otterbein University,FALSE
+26,9 ou4ug,Ohio Univ,FALSE
+27,0 ow1tg,Owens Community College,FALSE
+27,1 ow4ug,Ohio Wesleyan University,FALSE
+27,2 pc2pl,~Portage County PL,FALSE
+27,3 pc4sg,Pontifical Coll. Josephinum,FALSE
+27,4 re2pl,~Reed Memorial PL,FALSE
+27,5 ref,REFERENCE,FALSE
+27,6 rg2pa,SW Depository,FALSE
+27,7 rg2pc,SW Depository,FALSE
+27,8 rg2pd,SW Depository,FALSE
+27,9 rg2ph,SW Depository,FALSE
+28,0 rg2pk,SW Depository,FALSE
+28,1 rg2pm,SW Depository,FALSE
+,,,
+,,Page 5,
+28,2 rg2ps,SW Depository,FALSE
+28,3 rg2ta,SW Depository,FALSE
+28,4 rg2tc,SW Depository,FALSE
+28,5 rg2td,SW Depository,FALSE
+28,6 rg2tf,SW Depository M'film,FALSE
+28,7 rg2tg,SW Depository,FALSE
+28,8 rg2th,SW Depository,FALSE
+28,9 rg2ti,SW Depository,FALSE
+29,0 rg2tk,SW Depository,FALSE
+29,1 rg2tl,SW Depository,FALSE
+29,2 rg2tm,SW Depository,FALSE
+29,3 rg2tr,Request At Circ Desk,FALSE
+29,4 rg2ts,SW Depository,FALSE
+29,5 rgspa,SW Depository,FALSE
+29,6 rgspc,SW Depository,FALSE
+29,7 rgspd,SW Depository,FALSE
+29,8 rgsph,SW Depository,FALSE
+29,9 rgspk,SW Depository,FALSE
+30,0 rgspm,SW Depository,FALSE
+30,1 rgsps,SW Depository,FALSE
+30,2 rgsta,SW Depository,FALSE
+30,3 rgstc,SW Depository,FALSE
+30,4 rgstd,SW Depository,FALSE
+30,5 rgstg,SW Depository,FALSE
+30,6 rgsth,SW Depository,FALSE
+30,7 rgsti,SW Depository,FALSE
+30,8 rgstk,SW Depository,FALSE
+30,9 rgstm,SW Depository,FALSE
+31,0 rgstr,Request At Circ Desk,FALSE
+31,1 rgsts,SW Depository,FALSE
+31,2 ri4tg,Rio Grande CC,FALSE
+31,3 scat,BEST Atlas,FALSE
+31,4 scc,"BEST Library, Information Desk",FALSE
+31,5 sccmp,"BEST Library, Reserves(Computers)",FALSE
+31,6 sceq,BEST Library - Equipment,FALSE
+31,7 scfo,"BEST Library, Folio, Basement",FALSE
+31,8 scfor,"BEST Library, Folio Ref, Basement",FALSE
+31,9 scgs,"BEST Library, Reserves, Information Desk (group study)",FALSE
+32,0 schsm,"Hughes Storage, BEST Circulating",FALSE
+32,1 sckey,BEST Keys (Internal Use Only),FALSE
+32,2 sckuc,Spec Kuchler Collection Map Cases,FALSE
+32,3 sckur,Spec Kuchler Collection Oversize,FALSE
+32,4 scl,BEST,TRUE
+32,5 scli,"BEST Library, Basement",FALSE
+32,6 sclit,"Hughes Storage, Thesis",FALSE
+32,7 scmp,"BEST Library, Maps",FALSE
+32,8 scmpc,"BEST Library, Basement, Map Cabinets",FALSE
+32,9 scmpv,"BEST Library, Basement, Map Cases",FALSE
+33,0 scov,"BEST Library, Oversize, Basement",FALSE
+33,1 scper,"BEST Library, Periodicals, First Floor",FALSE
+33,2 scr,"BEST Library, Reference, Basement",FALSE
+33,3 scrr,Science Ready Reference,FALSE
+33,4 scrs,"BEST Library, Reserves, Information Desk",FALSE
+33,5 scsup,"BEST Library, Reserves (Supplies)",FALSE
+33,6 sh4ug,Shawnee State Univ,FALSE
+33,7 si3tg,Sinclair CC,FALSE
+33,8 sl4gg,State Library of Ohio,FALSE
+33,9 sm2ug,Saint Mary Seminary...,FALSE
+,,,
+,,Page 6,
+34,0 so3tg,Southern State CC,FALSE
+34,1 spcfo,Spec Coll folio,FALSE
+34,2 spe,SPEC,TRUE
+34,3 spe18,Spec 1841 Coll.,FALSE
+34,4 spec,Spec Special Collection,FALSE
+34,5 spece,Spec Eridelphian Society,FALSE
+34,6 speck,Spec King Collection,FALSE
+34,7 speco,Spec Covington Coll,FALSE
+34,8 specp,Spec Coll Periodical,FALSE
+34,9 specr,Spec Coll Reserves,FALSE
+35,0 specs,Spec Schoolbooks Coll,FALSE
+35,1 specv,Spec Coll Closed Stks,FALSE
+35,2 spedf,Spec Defoe Collection,FALSE
+35,3 spefc,Spec Microfiche,FALSE
+35,4 spefm,Spec Microfilm,FALSE
+35,5 spegr,Spec German Collection,FALSE
+35,6 spemg,Spec McGuffey Coll,FALSE
+35,7 spemy,Spec Myaamia Coll,FALSE
+35,8 spevf,Spec Coll Closed Stks folio,FALSE
+35,9 spkcb,Spec Kuchler Collection Bookshelf,FALSE
+36,0 spkfo,Spec King Coll folio,FALSE
+36,1 spmss,Spec Coll MSS,FALSE
+36,2 swdep,SW Depository,TRUE
+36,3 te1tg,Terra CC,FALSE
+36,4 test,Generic test location,FALSE
+36,5 ti1ug,Tiffin University,FALSE
+36,6 tl1pl,~Toledo PL,FALSE
+36,7 tl4sg,Trinity Lutheran Seminary,FALSE
+36,8 to1ug,Univ of Toledo,FALSE
+36,9 ua4hs,Upper Arlington High School,FALSE
+37,0 ur2bg,Ursuline College,FALSE
+37,1 ur3ug,Urbana University,FALSE
+37,2 wa2pl,~Wadsworth Public Library,FALSE
+37,3 wa2ug,Walsh University,FALSE
+37,4 wa4tg,Washington CC,FALSE
+37,5 wb3ug,Wilberforce University,FALSE
+37,6 we4pl,Westerville Public Library,FALSE
+37,7 wesar,Spec Archives - Western,FALSE
+37,8 wl3bg,Wilmington College,FALSE
+37,9 wo2bg,The College of Wooster,FALSE
+38,0 ws3ug,Wright State U.,FALSE
+38,1 wt2pl,~Warren-Trumbull,FALSE
+38,2 wt3ug,Wittenberg University,FALSE
+38,3 xa3ug,Xavier University,FALSE
+38,4 xcetc,CETC Library,FALSE
+38,5 xconi,Confucius Institute 126 McGuffey,FALSE
+38,6 xhrbl,Herbarium - Upham,FALSE
+38,7 xslol,"Student Leadership, Hannah House 9-2961",FALSE
+38,8 xwocl,Women's Center,FALSE
+38,9 xxxxx,xxx,FALSE
+39,0 y0201,"U of Akron, Bierce",FALSE
+39,1 y0202,"BGSU, Jerome Lib",FALSE
+39,2 y0203,"CWRU, Kelvin",FALSE
+39,3 y0204,Central State Univ,FALSE
+39,4 y0205,U of Cin - Langsam,FALSE
+39,5 y0206,Cleveland State Univ,FALSE
+39,6 y0207,U of Dayton - Roesch,FALSE
+39,7 y0208,Kent - Main Circ Dsk,FALSE
+,,,
+,,Page 7,
+39,8 y0209,MCO R.H. Mulford Lib,FALSE
+39,9 y0210,Miami U - King Lib,FALSE
+40,0 y0211,NEOUCOM,FALSE
+40,1 y0212,OSU - Main Library,FALSE
+40,2 y0213,OU Alden Library,FALSE
+40,3 y0214,SSU Clark Mem Lib,FALSE
+40,4 y0215,SLO Main Library,FALSE
+40,5 y0216,U of Toledo - Carlson,FALSE
+40,6 y0217,WSU - Dunbar,FALSE
+40,7 y0218,YSU Maag Library,FALSE
+40,8 y0301,Belmont Tech Library,FALSE
+40,9 y0303,Clark State CC,FALSE
+41,0 y0304,Columbus State CC,FALSE
+41,1 y0305,Cincinnati State CC,FALSE
+41,2 y0306,Edison CC Library,FALSE
+41,3 y0307,Hocking College,FALSE
+41,4 y0308,Jefferson CC,FALSE
+41,5 y0309,Lakeland CC Library,FALSE
+41,6 y0310,LCCC Library,FALSE
+41,7 y0311,Northwest State CC,FALSE
+41,8 y0312,Owens CCC,FALSE
+41,9 y0313,Rio Grande,FALSE
+42,0 y0314,Sinclair CC LRC,FALSE
+42,1 y0316,Terra CC,FALSE
+42,2 y0317,Washington St CC,FALSE
+42,3 y0322,CCC - Metro Library,FALSE
+42,4 y0323,CCC - West Library,FALSE
+42,5 y0324,CCC - East Library,FALSE
+42,6 y0326,CCC - Westshore Campus,FALSE
+42,7 y0335,SSCC South Campus,FALSE
+42,8 y0336,SSCC Central Campus,FALSE
+42,9 y0337,SSCC North Campus,FALSE
+43,0 y0338,SSCC Fayette Campus,FALSE
+43,1 y0345,Sinclair CC,FALSE
+43,2 y0350,CSCC - Delaware Learning Center,FALSE
+43,3 y0380,Lakeland East Madison,FALSE
+43,4 y0381,Lakeland West Willowick,FALSE
+43,5 y0382,Lakeland Main Curbside,FALSE
+43,6 y0383,Lakeland Holden University,FALSE
+43,7 y0401,Oberlin College,FALSE
+43,8 y0402,Ohio Northern-Hetrck,FALSE
+43,9 y0403,Cedarville Univ.,FALSE
+44,0 y0404,Mount St. Joseph Lib,FALSE
+44,1 y0406,Xavier U - McDonald,FALSE
+44,2 y0407,Cap U Blackmore Lib,FALSE
+44,3 y0408,Mt Vernon Nazarene,FALSE
+44,4 y0409,Ursuline College,FALSE
+44,5 y0410,Ohio Dominican,FALSE
+44,6 y0411,Hiram College,FALSE
+44,7 y0412,Witt Univ Thomas Lib,FALSE
+44,8 y0413,John Carroll Univ,FALSE
+44,9 y0415,Ashland Univ,FALSE
+45,0 y0416,Cincinnati Bible Col,FALSE
+45,1 y0417,Marietta College,FALSE
+45,2 y0418,Notre Dame Coll Lib,FALSE
+45,3 y0428,Ohio Northern-Law,FALSE
+45,4 y0430,Franklin Univ,FALSE
+45,5 y0432,Cleveland Clinic,FALSE
+,,,
+,,Page 8,
+45,6 y0434,Myers University,FALSE
+45,7 y0437,Westerville Public Library,FALSE
+45,8 y0440,CCPL Parma-Snow,FALSE
+45,9 y0442,CPPL Fairview Park,FALSE
+46,0 y0444,CCPL Maple Heights,FALSE
+46,1 y0446,CCPL Mayfield Reg,FALSE
+46,2 y0448,CCPL Parma,FALSE
+46,3 y0450,CCPL Administration,FALSE
+46,4 y0451,CCPL - Metro Health,FALSE
+46,5 y0452,CCPL Bay Village,FALSE
+46,6 y0454,CCPL Beachwood,FALSE
+46,7 y0456,CCPL Berea,FALSE
+46,8 y0458,CCPL Brecksville,FALSE
+46,9 y0460,CCPL Brook Park,FALSE
+47,0 y0462,CCPL Brooklyn,FALSE
+47,1 y0464,CCPL Chagrin Falls,FALSE
+47,2 y0468,CCPL S Eclid-Lndhrst,FALSE
+47,3 y0470,CCPL Garfield Heights,FALSE
+47,4 y0472,CCPL Gates Mills,FALSE
+47,5 y0474,CCPL Independence,FALSE
+47,6 y0476,CCPL Southeast,FALSE
+47,7 y0478,CCPL Strongsville,FALSE
+47,8 y0480,CCPL Middleberg Hghts,FALSE
+47,9 y0482,CCPL North Olmstead,FALSE
+48,0 y0484,CCPL North Royalton,FALSE
+48,1 y0486,CCPL Olmsted Falls,FALSE
+48,2 y0488,CCPL Orange,FALSE
+48,3 y0490,CCPL Parma Heights,FALSE
+48,4 y0492,CCPL Warrensville,FALSE
+48,5 y0494,CCPL Parma-Ridge,FALSE
+48,6 y0496,CCPL Richmond Mini,FALSE
+48,7 y0498,CCPL Solon,FALSE
+48,8 y0501,"U of Akron, Wayne",FALSE
+48,9 y0502,"BGSU, Firelands",FALSE
+49,0 y0503,U of Cincinnati - Blue Ash College,FALSE
+49,1 y0504,U of Cin - Clermont,FALSE
+49,2 y0505,U of Cin - Health Sc,FALSE
+49,3 y0506,U of Cin - Law Lib,FALSE
+49,4 y0508,Kent - Trumbull,FALSE
+49,5 y0509,Kent - Salem,FALSE
+49,6 y0510,Kent - Stark,FALSE
+49,7 y0511,Kent - Tuscarawas,FALSE
+49,8 y0512,Kent - Geauga,FALSE
+49,9 y0513,Kent - Ashtabula,FALSE
+50,0 y0514,Kent -East Liverpool,FALSE
+50,1 y0516,Miami U - Middletown,FALSE
+50,2 y0517,Miami U - Hamilton,FALSE
+50,3 y0518,OSU Lima Campus,FALSE
+50,4 y0520,OSU Ag Tech Inst,FALSE
+50,5 y0521,OSU Mansfield Campus,FALSE
+50,6 y0522,OSU - Marion,FALSE
+50,7 y0523,OSU Newark Campus,FALSE
+50,8 y0524,OSU - Moritz Law,FALSE
+50,9 y0525,OSU - Health Sci.,FALSE
+51,0 y0526,OSU Sullivant,FALSE
+51,1 y0527,OSU OARDC Wooster,FALSE
+51,2 y0528,OSU Science & Engineering,FALSE
+51,3 y0529,OU Eastern Campus,FALSE
+,,,
+,,Page 9,
+51,4 y0530,OU Chillicothe Campus,FALSE
+51,5 y0531,OU Zanesville Campus,FALSE
+51,6 y0532,OU Lancaster Campus,FALSE
+51,7 y0533,OU Southern Campus,FALSE
+51,8 y0535,Ohio U-Proctorville Ctr,FALSE
+51,9 y0536,OU Music/Dance Library,FALSE
+52,0 y0545,U of Toledo - Law Lib,FALSE
+52,1 y0549,WSU - Lake Campus,FALSE
+52,2 y0550,U of Toledo-Scott Pk,FALSE
+52,3 y0553,"CWRU, Health Sci",FALSE
+52,4 y0601,Athenaeum Library,FALSE
+52,5 y0603,Antioch College Lib,FALSE
+52,6 y0604,Antioch University Lib,FALSE
+52,7 y0605,Baldwin-Wall Ritter,FALSE
+52,8 y0607,Bluffton College Lib,FALSE
+52,9 y0608,Cols Coll Art & Des,FALSE
+53,0 y0609,Defiance College Lib,FALSE
+53,1 y0611,U Findlay Shafer Lib,FALSE
+53,2 y0613,Franciscan JP II Lib,FALSE
+53,3 y0615,Heidelberg Beeghly,FALSE
+53,4 y0616,Lourdes Coll Library,FALSE
+53,5 y0617,Malone College Lib,FALSE
+53,6 y0618,Mercy College,FALSE
+53,7 y0619,Mt Carmel West Lib,FALSE
+53,8 y0621,Mt Union Main Lib,FALSE
+53,9 y0623,Muskingum Coll Lib,FALSE
+54,0 y0625,Otterbein Coll Lib,FALSE
+54,1 y0627,Tiffin Univ Library,FALSE
+54,2 y0628,Urbana Univ Lib,FALSE
+54,3 y0629,Wilberforce Univ Lib,FALSE
+54,4 y0631,Wilmington Coll Lib,FALSE
+54,5 y0635,Tiffin Univ Lima,FALSE
+54,6 y0637,Tiffin Univ Lorain,FALSE
+54,7 y0640,Walsh University,FALSE
+54,8 y0642,Methodist Theo. Sch. in Ohio,FALSE
+54,9 y0644,Pontifical Coll. Josephinum,FALSE
+55,0 y0646,Trinity Lutheran Seminary,FALSE
+55,1 y0648,Ohio Christian University PUA,FALSE
+55,2 y0670,Saint Mary Sem...PUA,FALSE
+55,3 y0672,University of NW OH PUA,FALSE
+55,4 y0701,Denison Univ - Doane,FALSE
+55,5 y0703,Kenyon College,FALSE
+55,6 y0705,OWU - Beeghly Lib,FALSE
+55,7 y0707,College of Wooster,FALSE
+55,8 yccpl,CCPL Southeast,FALSE
+55,9 ym2pl,~Youngstown-Mahoning,FALSE
+56,0 ys2ug,Youngstown State Univ,FALSE
